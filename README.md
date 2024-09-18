@@ -2,7 +2,7 @@
 
 <!-- File-System -->
 
-#### This folder contains codes about the file System module
+#### The 'File-System' folder contains codes about the file System module
 
 ###### The app.js containes a programe that watch the command.txt file and execute the writable commands if it exists
 
@@ -10,7 +10,7 @@
 
 <!-- Streams -->
 
-### This folder contains codes wich deal with streams
+### The 'Streams' folder contains codes wich deal with streams
 
 ###### The app.js file containes a code that write to a text file one million time
 
