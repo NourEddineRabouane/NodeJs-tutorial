@@ -37,7 +37,7 @@ const fs = require("fs/promises");
 
 /*------------ streams best practice ----------*/
 
-const fs = require("fs/promises");
+const fs = require("node:fs/promises");
 
 (async () => {
     try {
